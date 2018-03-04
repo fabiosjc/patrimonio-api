@@ -1,0 +1,2 @@
+insert into item (etiqueta, descricao, data_aquisicao) values ('NOT-12345', 'Notebook i7', sysdate());
+insert into item (etiqueta, descricao, data_aquisicao) values ('CEL-98641', 'Celular Sansung S8', sysdate());
